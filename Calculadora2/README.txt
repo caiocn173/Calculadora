@@ -1,0 +1,1 @@
+Executar este projeto utilizando a IDE NetBeans 8.2 ou superior
